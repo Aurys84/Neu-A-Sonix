@@ -1,3 +1,4 @@
+![1000007753](https://github.com/user-attachments/assets/4f036031-f8f6-4150-acd0-55f10d1cf664)
 # 🎙️ Neu-A-Sonix (NAS)
 ### Aion Matrix Lab - Hearing Enhancement & Neural Prosthesis Module
 
