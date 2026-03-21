@@ -17,4 +17,4 @@ The system is based on adaptive acoustic spectrum analysis. It filters environme
 ---
 
 ## 📁 Dokumentáció / Documentation
-- [hearing_prosthetic_concept.pdf](./hearing_prosthetic_concept.pdf) - Fülprotézis koncepció és házak.
+- [Acoustic Analysis Data](./IMG_20260321_015238.jpg) - Fülprotézis koncepció és házak.
