@@ -7,6 +7,9 @@ A NAS a Labor hallásjavító és akusztikai segítő protokollja. A projekt cé
 ### Főbb funkciók:
 - **Spektrális Korrekció:** Sérült frekvenciatársaságok valós idejű kompenzációja.
 - **Irányhallás Segítés:** Térbeli hangérzékelés támogatása mesterséges visszacsatolással.
+- Működési elv:
+
+A rendszer adaptív akusztikus spektrumelemzést végez. Kiszűri a környezeti zajokat, és a hiányzó frekvenciasávokat átkódolja a hallóidegek számára érzékelhető jelekké, ezzel segítve az irányhallást és a beszédértést.
 
 ## 🇺🇸 Scientific Description & Operating Principle (EN)
 The **Neu-A-Sonix (NAS)** is a high-precision auditory assistance and neural encoding protocol.
@@ -17,9 +20,7 @@ The system is based on adaptive acoustic spectrum analysis. It filters environme
 🇭🇺 Áttekintés (HU)
 A Neu-A-Sonix az Aion Mátrix Labor hallásjavító és akusztikai segítő protokollja. A projekt célja a hallásfunkciók digitális helyreállítása és a környezeti hangok intelligens feldolgozása neurális alapokon.
 
-Működési elv:
 
-A rendszer adaptív akusztikus spektrumelemzést végez. Kiszűri a környezeti zajokat, és a hiányzó frekvenciasávokat átkódolja a hallóidegek számára érzékelhető jelekké, ezzel segítve az irányhallást és a beszédértést.
 
 🇺🇸 Scientific Overview (EN)
 The Neu-A-Sonix (NAS) is a high-precision auditory assistance and neural encoding protocol.
