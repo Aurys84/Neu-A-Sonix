@@ -7,8 +7,8 @@ A NAS a Labor hallásjavító és akusztikai segítő protokollja. A projekt cé
 ### Főbb funkciók:
 - **Spektrális Korrekció:** Sérült frekvenciatársaságok valós idejű kompenzációja.
 - **Irányhallás Segítés:** Térbeli hangérzékelés támogatása mesterséges visszacsatolással.
-- Működési elv:
 
+### Működési elv:
 A rendszer adaptív akusztikus spektrumelemzést végez. Kiszűri a környezeti zajokat, és a hiányzó frekvenciasávokat átkódolja a hallóidegek számára érzékelhető jelekké, ezzel segítve az irányhallást és a beszédértést.
 
 ## 🇺🇸 Scientific Description & Operating Principle (EN)
