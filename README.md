@@ -16,5 +16,12 @@ The system is based on adaptive acoustic spectrum analysis. It filters environme
 
 ---
 
-## 📁 Dokumentáció / Documentation
-- [Acoustic Analysis Data](./IMG_20260321_015238.jpg) - Fülprotézis koncepció és házak.
+## 📁 Vizuális Dokumentáció / Visual Documentation
+- [Neural Analysis 01](./nas_analysis_01.jpg) - Alapszintű frekvencia-vizualizáció.
+- [Neural Analysis 02](./nas_analysis_02.jpg) - Akusztikus spektrum modell.
+- [Neural Analysis 03](./nas_analysis_03.jpg) - Zajszűrési algoritmus vázlat.
+- [Neural Analysis 04](./nas_analysis_04.jpg) - Irányhallás-segítő koncepció.
+- [Neural Analysis 05](./nas_analysis_05.jpg) - Kognitív hangfeldolgozás fázisai.
+- [Neural Analysis 06](./nas_analysis_06.jpg) - Jel-átviteli protokoll.
+- [Neural Analysis 07](./nas_analysis_07.jpg) - Protézis-integrációs pontok.
+- [Neural Analysis 08](./nas_analysis_08.jpg) - Végleges moduláris felépítés.
