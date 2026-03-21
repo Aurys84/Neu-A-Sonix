@@ -13,7 +13,20 @@ The **Neu-A-Sonix (NAS)** is a high-precision auditory assistance and neural enc
 
 ### Operating Principle:
 The system is based on adaptive acoustic spectrum analysis. It filters environmental noise and re-encodes missing frequency bands into perceptible signals for the auditory nerve, supporting spatial hearing and speech recognition.
+🎙️ Neu-A-Sonix (NAS) - Adattár Leírás
+🇭🇺 Áttekintés (HU)
+A Neu-A-Sonix az Aion Mátrix Labor hallásjavító és akusztikai segítő protokollja. A projekt célja a hallásfunkciók digitális helyreállítása és a környezeti hangok intelligens feldolgozása neurális alapokon.
 
+Működési elv:
+
+A rendszer adaptív akusztikus spektrumelemzést végez. Kiszűri a környezeti zajokat, és a hiányzó frekvenciasávokat átkódolja a hallóidegek számára érzékelhető jelekké, ezzel segítve az irányhallást és a beszédértést.
+
+🇺🇸 Scientific Overview (EN)
+The Neu-A-Sonix (NAS) is a high-precision auditory assistance and neural encoding protocol.
+
+Operating Principle:
+
+The system is based on adaptive acoustic spectrum analysis. It filters environmental noise and re-encodes missing frequency bands into perceptible signals for the auditory nerve, supporting spatial hearing and speech recognition.
 ---
 
 ## 📁 Vizuális Dokumentáció / Visual Documentation
